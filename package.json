@@ -1,0 +1,25 @@
+{
+  "name": "swiggi-clone",
+  "version": "1.0.0",
+  "description": "Food Ordering website demo",
+  "homepage": "https://github.com/Vanshdev21/FoodOrderingWebsite#readme",
+  "bugs": {
+    "url": "https://github.com/Vanshdev21/FoodOrderingWebsite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vanshdev21/FoodOrderingWebsite.git"
+  },
+  "license": "ISC",
+  "author": "Vansh khubchadani",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
